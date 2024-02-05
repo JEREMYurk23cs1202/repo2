@@ -1,1 +1,1 @@
-print("animals,dog")
+print("animals/dog")
